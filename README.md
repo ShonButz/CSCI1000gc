@@ -1,2 +1,3 @@
 # CSCI1000gc
-Our Project 
+Our Project: 
+Group Members: Shon Butz, Fatima Kanteh, and Samra Redzic 
